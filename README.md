@@ -1,4 +1,4 @@
-<h1>Sanal Magaza Projesi</h1>
+<h1>Flutter ToDo App</h1>
 
 This app created to understand Flutter. It is a basic app that made me to understand state usage, OOP, dart, sizing widgets, aligment of elements and the class structure. On next project I will try more comlicated structures.
 
